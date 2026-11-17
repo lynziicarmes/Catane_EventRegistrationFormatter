@@ -1,0 +1,9 @@
+1\. **In my first version,** my program could ask for student information and display it without formatting.
+
+2\. **I improved my program by adding** string formatting and date formatting to make the output cleaner and more organized.
+
+3\. **The string method/function I used was** `strip()`, `title()`, and `upper()` because they remove extra spaces and format the text properly.
+
+4\. **The date/time feature I used was** `datetime()` because it allows the program to display the event date in a readable format.
+
+5\. **The biggest change in my program was** adding date formatting, which made the registration summary more complete and easier to read.
